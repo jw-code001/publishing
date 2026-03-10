@@ -6,7 +6,7 @@ import numpy as np
 st.set_page_config(page_title="My First App", page_icon="🚀")
 
 # 2. 앱 제목과 간단한 소개
-st.title("📊 배포고고")
+st.title("📊 배포 고고")
 st.write("이 앱은 GitHub과 Streamlit Cloud를 통해 배포되었습니다.")
 
 # 3. 사이드바 만들기
