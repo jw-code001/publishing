@@ -348,8 +348,8 @@ VS Code에서 그래프를 바로 확인하시려면 **matplotlib**이나 seabor
 
 특히 질문자님처럼 # %% (코드 셀) 구분자를 사용하신다면, VS Code의 Interactive 창에서 그래프가 즉시 팝업되도록 최적화된 코드를 구성해 드릴게요.
 
-🚀 VS Code 전용 시각화 코드
-이 코드는 Seaborn을 활용해 자치구별 성별 인원을 나란히(Grouped Bar) 비교하는 코드입니다.
+#🚀 VS Code 전용 시각화 코드
+#이 코드는 Seaborn을 활용해 자치구별 성별 인원을 나란히(Grouped Bar) 비교하는 코드입니다.
 
 Python
 # %%
